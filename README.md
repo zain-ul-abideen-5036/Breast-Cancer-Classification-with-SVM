@@ -7,6 +7,7 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-lightgrey)
 
 A machine learning project that uses Support Vector Machines (SVM) to classify breast cancer tumors as malignant or benign, achieving 98.25% accuracy.
+
 ---
 
 ## Features
