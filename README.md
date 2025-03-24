@@ -35,21 +35,21 @@ The Wisconsin Breast Cancer Diagnostic Dataset from scikit-learn:
 
 ## Installation
 1. Clone repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/breast-cancer-classification.git
-   cd breast-cancer-classification
-   ```
+```bash
+git clone https://github.com/YOUR-USERNAME/breast-cancer-classification.git
+cd breast-cancer-classification
+```
 2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## Usage
 1. Start Jupyter Notebook:
-   ```
-   jupyter notebook notebooks/Breast_Cancer_Classification.ipynb
-   ```
+```
+jupyter notebook notebooks/Breast_Cancer_Classification.ipynb
+```
 2. Open ```Breast_Cancer_Classification.ipynb```
 3. Run cells sequentially to:
    - Load and preprocess data
